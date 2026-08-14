@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4261c9a2-b77b-48ac-924d-add6b6ce57b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/USA_Housing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/titanic-survival-classification.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/nepal-house-price-prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USA_Housing.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../restapidjango/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../restapidjango/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../restapidjango/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
